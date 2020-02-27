@@ -1,0 +1,13 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "files.autoSave": "on",
+  "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true
+  }
+}
